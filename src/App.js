@@ -8,9 +8,9 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 // import 1st party components
 import TopMenu from './components/navigation/TopMenu';
 import BottomMenu from './components/navigation/BottomMenu';
-import Checklists from './components/Checklists/Checklists';
-import Tasks from './components/Tasks/Tasks';
-import Map from './components/Map/Map';
+import Checklists from './components/checklists/Checklists';
+import Tasks from './components/tasks/Tasks';
+import Map from './components/map/Map';
 import Settings from './components/general/Settings';
 import Profile from './components/general/Profile';
 import Index from './components/general/Index';
