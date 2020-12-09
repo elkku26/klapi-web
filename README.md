@@ -5,7 +5,7 @@ Klapi is a program currently being developed by the scouting group [Hyvinkään 
 1. Fork this repository to your own account and clone it locally.
 2. Install required dependencies with 'npm install'
 3. Add upstream repo with 'git remote add upstream https://github.com/nummenpojat/klapi-web'
-4. Make new bramch wíth 'git checkout -b branch-name'
+4. Make new branch wíth 'git checkout -b branch-name'
 5. Run app with 'npm start'
 6. Make your changes and commit them
 7. Push changes to your own fork with 'git push origin branch-name'
